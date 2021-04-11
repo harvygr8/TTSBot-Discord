@@ -4,6 +4,6 @@ module.exports=
   description:'Ping Command',
   execute(msg,args,Client)
   {
-    msg.channel.send('Pong')
+    msg.channel.send('Hello There!')
   }
 }
