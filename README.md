@@ -2,10 +2,15 @@
  Text-To-Speech Bot for your Discord Server
 
  # Features
-   - TTS Output Saved Locally
-   - Misc Commands like Leave,ping,help and clear
+   - TTS output saved locally
+   - Misc commands like leave, ping, help & clear
 
    # Installation
+   - Make an environment file as follows
+   ```sh
+   #.env
+   TOKEN=<your_discord_client_token>
+   ```
    - Run The Following Command to install dependencies
    ```sh
    npm install
