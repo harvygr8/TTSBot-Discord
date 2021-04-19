@@ -1,7 +1,9 @@
 # TTSBot-Discord
  Text-To-Speech Bot for your Discord Server
 
+
  # Usage
+ ### Bot Prefix '>'
  ```sh
 >speak 'Hello World!'
  ```
