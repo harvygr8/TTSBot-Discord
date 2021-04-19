@@ -1,9 +1,21 @@
 # TTSBot-Discord
  Text-To-Speech Bot for your Discord Server
 
- # Features
-   - TTS output saved locally
-   - Misc commands like leave, ping, help & clear
+ # Usage
+ ```sh
+>speak 'Hello World!'
+ ```
+ The Bot Automatically joins the invokers voice channel and speaks the given text
+
+ ```sh
+>leave
+ ```
+ Leaves the voice channel
+
+ ```sh
+>help
+ ```
+  Shows a Help Message
 
    # Installation
    - Make an environment file as follows
